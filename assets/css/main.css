@@ -164,7 +164,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #000000;
 		font-family: 'Caveat', cursive;
-		font-size: 1.4rem;
+		font-size: 1.5rem;
 		font-weight: 500;
 		letter-spacing: 0.0375em;
 		line-height: 2;
@@ -195,7 +195,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 1rem 0;
+		margin: 0 0 0 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -219,18 +219,18 @@ input, select, textarea {
 		font-weight: 500;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
-		margin: 0 0 2rem 0;
+		margin: 0 0 3rem 0;
 		text-transform: none;
 	}
 
 	h2 {
 		font-size: 1.7rem;
 		font-weight: 800;
-		margin: 0 0 1rem 0;
+		margin: 0 0 0 0;
 	}
 
 	h3 {
-		font-size: 0.875rem;
+		font-size: 1rem;
 	}
 
 	h4 {
