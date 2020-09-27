@@ -260,6 +260,7 @@ input, select, textarea {
 		h3 {
 			font-size: 0.9rem;
 		}
+	
 
 		h4 {
 			font-size: 0.75rem;
@@ -3256,7 +3257,7 @@ input, select, textarea {
 			}
 
 				#wrapper section > header h2 {
-					margin: 0 0 5rem 0;
+					margin: 0 0 3rem 0;
 				}
 
 				#wrapper section > header h1 + p {
